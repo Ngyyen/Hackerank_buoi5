@@ -7,8 +7,8 @@ using namespace std;
 bool find_char(const string&, char);
 
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
-    int h;
+    
+    int h = 0;
     cin >> h;
     string s;
     cin >> s;
