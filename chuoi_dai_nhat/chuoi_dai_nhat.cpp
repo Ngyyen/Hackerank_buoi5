@@ -5,6 +5,7 @@
 using namespace std;
 
 bool find_char(const string&, char);
+void do_nothing();
 
 int main() {
     
